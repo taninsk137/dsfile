@@ -1,4 +1,4 @@
-Country,Annual-Nominal (US$),Annual-PPP (Int$),Workweek  (hours),Hourly-Nominal (US$),Hourly-PPP (Int$),Percents�of  GDP per capita,Effective per
+Country,Annual-Nominal (US$),Annual-PPP (Int$),Workweek  (hours),Hourly-Nominal (US$),Hourly-PPP (Int$),Percents of  GDP per capita,Effective per
 Afghanistan,1047,3272,40,0.5,1.57,168.30%,2017
 Albania,2418,5218,40,1.16,2.51,45.20%,05-May-17
 Algeria,2163,6247,40,1.04,3,41.60%,01-May-20
@@ -40,7 +40,7 @@ Comoros,1512,3037,40,0.73,1.46,199.50%,2017
 Democratic Republic of the Congo,298,741,45,0.13,0.32,92.40%,01-Jan-09
 Republic of the Congo,1855,6958,40,0.89,3.35,121.70%,2017
 Costa Rica,6702,10191,48,2.69,4.08,61.40%,01-Jan-20
-Côte d'Ivoire,755,1868,40,0.36,0.9,50.60%,1994
+CÃ´te d'Ivoire,755,1868,40,0.36,0.9,50.60%,1994
 Croatia,6798,11250,40,3.27,5.41,48%,01-Jan-19
 Cuba,2735,669,48,0.44,0.74,0.40%,2021
 Cyprus,,,48,,,,2017
@@ -155,7 +155,7 @@ Saint Lucia,,,40,,,,2013
 Saint Vincent and the Grenadines,2407,3351,40,1.16,1.61,29.20%,01-Jul-08
 Samoa,1644,2237,40,0.79,1.08,35.10%,2012
 San Marino,20245,23400,37.5,10.38,12,38.40%,01-Jan-17
-São Tomé and Príncipe,,,,,,,2013
+SÃ£o TomÃ© and PrÃ­ncipe,,,,,,,2013
 Saudi Arabia,9600,18557,48,3.85,7.43,34.10%,02-Feb-13
 Senegal,654,1617,40,0.31,0.78,63%,01-Jan-96
 Serbia,3330,7291,40,1.6,3.51,50.20%,01-Jan-20
